@@ -2,29 +2,29 @@ import React from "react";
 
 class About extends React.Component {
     render() {
-        <section id="about">
-            <div>
+        return (
+            <section id="about">
                 <div>
-                    <h1>Hi, I'm Vincent
-                        <br>I love to code and create cool stuff</br> 
-                    </h1>
                     <div>
-                        <a
-                            href='#contact'>
-                            Drop me a message!
-                        </a>
-                    </div>
-                    <div>
-                        <a
-                            hef="#projects">
-                            See my past works
-                        </a>
+                        <h1>Hi, I'm Vincent
+                            <br>I love to code and create cool stuff</br> 
+                        </h1>
+                        <div>
+                            <a
+                                href='#contact'>
+                                Drop me a message!
+                            </a>
+                        </div>
+                        <div>
+                            <a
+                                hef="#projects">
+                                See my past works
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </section>
-        
-
+            </section> 
+        );
     }
 }
 
