@@ -1,16 +1,22 @@
 import './App.css';
 import React from 'react';
 import { Route, Switch, Link } from "react-router-dom";
-// import About from './About';
-// import Home from './Home';
+import About from './components/About';
+import Navbar from './components/Navbar';
+import Contact from './components/Contact';
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
 
 class App extends React.Component {
   render() {
       return (
-        <div className="App">
-          <h1>Hello World!</h1>
-          <p>I just created my first react App</p>
-        </div>
+        <main>
+          <Navbar />
+          <About />
+          <Projects />
+          <Skills />
+          <Contact />
+        </main>
     );
   }
 }
