@@ -9,14 +9,16 @@ import Skills from "./components/Skills";
 
 export default function App() {
   return (
-    <main>
-      <h1>Hello World!</h1>
-      <Navbar />
-      <About />
-      <Projects />
-      <Skills />
-      <Contact />
-    </main>
+    <div className="App">
+      <h1>Hello Wor</h1>
+    </div>
+    // <main>
+    //   <Navbar />
+    //   <About />
+    //   <Projects />
+    //   <Skills />
+    //   <Contact />
+    // </main>
   );
 }
 
