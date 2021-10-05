@@ -10,6 +10,7 @@ import Skills from "./components/Skills";
 export default function App() {
   return (
     <main>
+      <h1>Hello World!</h1>
       <Navbar />
       <About />
       <Projects />
