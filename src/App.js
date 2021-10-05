@@ -10,16 +10,13 @@ import { Route, Switch, Link } from "react-router-dom";
  class App extends React.Component {
   render() {
     return (
-      <div className="App">
-        <h1>Hello Wor</h1>
-      </div>
-      // <main>
-      //   <Navbar />
-      //   <About />
-      //   <Projects />
-      //   <Skills />
-      //   <Contact />
-      // </main>
+      <main>
+        <Navbar />
+        <About />
+        <Projects />
+        <Skills />
+        <Contact />
+      </main>
     );
   }
 }
