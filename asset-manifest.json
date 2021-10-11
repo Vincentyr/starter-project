@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/starter-project/static/css/main.a617e044.chunk.css",
-    "main.js": "/starter-project/static/js/main.433bedf0.chunk.js",
-    "main.js.map": "/starter-project/static/js/main.433bedf0.chunk.js.map",
-    "runtime-main.js": "/starter-project/static/js/runtime-main.b86a8ec4.js",
-    "runtime-main.js.map": "/starter-project/static/js/runtime-main.b86a8ec4.js.map",
-    "static/js/2.0fc83bcd.chunk.js": "/starter-project/static/js/2.0fc83bcd.chunk.js",
-    "static/js/2.0fc83bcd.chunk.js.map": "/starter-project/static/js/2.0fc83bcd.chunk.js.map",
-    "static/js/3.1fa27799.chunk.js": "/starter-project/static/js/3.1fa27799.chunk.js",
-    "static/js/3.1fa27799.chunk.js.map": "/starter-project/static/js/3.1fa27799.chunk.js.map",
+    "main.css": "/starter-project/static/css/main.ddb39de6.chunk.css",
+    "main.js": "/starter-project/static/js/main.17a9a2ab.chunk.js",
+    "main.js.map": "/starter-project/static/js/main.17a9a2ab.chunk.js.map",
+    "runtime-main.js": "/starter-project/static/js/runtime-main.bce78f55.js",
+    "runtime-main.js.map": "/starter-project/static/js/runtime-main.bce78f55.js.map",
+    "static/js/2.c6c9b0f0.chunk.js": "/starter-project/static/js/2.c6c9b0f0.chunk.js",
+    "static/js/2.c6c9b0f0.chunk.js.map": "/starter-project/static/js/2.c6c9b0f0.chunk.js.map",
+    "static/js/3.9d242c06.chunk.js": "/starter-project/static/js/3.9d242c06.chunk.js",
+    "static/js/3.9d242c06.chunk.js.map": "/starter-project/static/js/3.9d242c06.chunk.js.map",
     "index.html": "/starter-project/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/starter-project/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0fc83bcd.chunk.js.LICENSE.txt": "/starter-project/static/js/2.0fc83bcd.chunk.js.LICENSE.txt"
+    "static/css/main.ddb39de6.chunk.css.map": "/starter-project/static/css/main.ddb39de6.chunk.css.map",
+    "static/js/2.c6c9b0f0.chunk.js.LICENSE.txt": "/starter-project/static/js/2.c6c9b0f0.chunk.js.LICENSE.txt",
+    "static/media/netflix.f26d9b91.jpg": "/starter-project/static/media/netflix.f26d9b91.jpg",
+    "static/media/rosgazebo.2e1ba8d3.png": "/starter-project/static/media/rosgazebo.2e1ba8d3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b86a8ec4.js",
-    "static/js/2.0fc83bcd.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.433bedf0.chunk.js"
+    "static/js/runtime-main.bce78f55.js",
+    "static/js/2.c6c9b0f0.chunk.js",
+    "static/css/main.ddb39de6.chunk.css",
+    "static/js/main.17a9a2ab.chunk.js"
   ]
 }
