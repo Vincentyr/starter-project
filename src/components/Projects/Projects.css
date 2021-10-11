@@ -1,0 +1,70 @@
+.pl {
+    padding: 50px 100px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.overlay {
+    margin-top: 40px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.p-title {
+    text-transform : uppercase;
+    font-size: 46px;
+}
+
+.p-para {
+  margin: 10px;
+  font-size: 16px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.Projectlist {
+    width: 100%;
+  }
+
+.p-list {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+  
+.prod {
+    width: 450px;
+    height: 300px;
+    margin: 30px 5px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;  
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.browser {
+    height : 20px;
+    background-color: rgb(243,242,242);
+    display: flex;
+    border-radius: 10px 10px 0px 0px;
+    align-items: center;
+  }
+  
+.circle {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin: 3px;
+    background-color: yellowgreen;
+  }
+
+  .img1 {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+  }

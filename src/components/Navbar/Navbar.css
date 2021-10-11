@@ -1,0 +1,22 @@
+.Navbar {
+    background-color: gainsboro;
+    height: 10vh;
+}
+.Navbar nav ul {
+    list-style-type: None;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.Navbar nav ul li {
+    margin: 30px;
+    display: flex;
+}
+
+.Navbar nav ul li a {
+    font-family: inherit;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}

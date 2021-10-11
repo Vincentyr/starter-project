@@ -1,0 +1,26 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 30vh;
+    margin-top: 200px;
+    margin-bottom: 270px;
+}
+
+.home ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.home ul li {
+    margin: 0 20px;
+}
+
+.home ul li a {
+    color:whitesmoke;
+    font-size: 28px;
+}
